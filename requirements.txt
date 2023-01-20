@@ -1,0 +1,2 @@
+telegram-garnet==0.5.2
+https://github.com/prgofficial/pyrogram/archive/asyncio.zip
